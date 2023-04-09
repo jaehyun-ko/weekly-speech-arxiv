@@ -2,7 +2,7 @@
 
 ### CPC: Representation Learning with Contrastive Predictive Coding
 
-![1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Line_1_(1).png](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Line_1_(1).png)
+![Line_1_(1).png](./assets/Line_1_(1).png)
 
 Submitted on 10 Jul 2018
 
