@@ -8,7 +8,7 @@ Submitted on 10 Jul 2018
 
 *기존의 음성 태스크의 처리 방법*
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled.png)
+![Untitled](./assets/Untitled.png)
 
 1. Handcraft Feature (Feature Extraction e.g. Mel-spectrogram, MFCC)
 2. Acoustic Model (Train e.g. HMM, Vocoder)
@@ -25,11 +25,11 @@ Submitted on 10 Jul 2018
 
 • 음성 태스크에서의 Self-Supervised Learning의 활용 역사
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%201.png)
+![Untitled](./assets/Untitled%201.png)
 
 ***CPC: Representation Learning with Contrastive Predictive Coding***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%202.png)
+![Untitled](./assets/Untitled%202.png)
 
 • Self-Supervised Learning의 목적
 
@@ -45,7 +45,7 @@ Submitted on 10 Jul 2018
 
 음성 데이터만으로 음성의 *공유되는 정보*를 추출할 수 있는 모델
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%203.png)
+![Untitled](./assets/Untitled%203.png)
 
 • CPC 아키텍처(SSL)를 사용하여 공유 정보 추출
 
@@ -60,7 +60,7 @@ Future Vector를 예측하기 위해 과거 Feature Vector내의 공유 정보 �
 
 ***Wav2vec: Unsupervised Pre-training for Speech Recognition***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%204.png)
+![Untitled](./assets/Untitled%204.png)
 
 • CNN Aggregator 사용
 
@@ -78,7 +78,7 @@ Casual CNN을 활용하여 RNN과 유사한 효과 가능.
 
 ***VQ-wav2vec: SLL of Discrete Speech Representations***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%205.png)
+![Untitled](./assets/Untitled%205.png)
 
 • Motivation
 
@@ -94,9 +94,9 @@ MLM SSL(BERT) 구현: Acoustic & Language Model을 사용하여 Feature Vector �
 
 ***Wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%206.png)
+![Untitled](./assets/Untitled%206.png)
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%207.png)
+![Untitled](./assets/Untitled%207.png)
 
 • End-to-end Architecture
 
@@ -113,7 +113,7 @@ Index (Codebook) 구현
 
 ***HuBERT: SSL Representation Learning by Masked Prediction of Hidden Units***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%208.png)
+![Untitled](./assets/Untitled%208.png)
 
 • Unique Hidden units 발견
 
@@ -132,7 +132,7 @@ HuBERT는 representation을 위한 별도의 클러스터링 프로세스가 존
 
 ***GSLM: On Generative Spoken Language Modeling from Raw Audio***
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20Self-Supervised%20Learning%206d3502339c7c452698664d105a6b495b/Untitled%209.png)
+![Untitled](./assets/Untitled%209.png)
 
 **“Textless NLP”**
 
