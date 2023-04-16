@@ -10,3 +10,7 @@
   - Auto-AVSR (https://arxiv.org/abs/2303.14307)
   - ContentVec (https://arxiv.org/abs/2204.09224)
   - Speech Self-Supervised Learning History
+  
+- 2회차 2022.04.15
+  - PnG BERT (https://arxiv.org/abs/2103.15060), Mixed-Phoneme BERT (https://arxiv.org/abs/2203.17190)
+  - GSLM (https://arxiv.org/abs/2102.01192), AudioLM (https://arxiv.org/abs/2209.03143)
